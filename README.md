@@ -20,4 +20,5 @@ yang tertarik dengan dunia pemograman dan teknologi.
 2.Website Portofolio
 <li>Website pribadi untuk menampilkan informasi dan project yang pernah dibuat</li>
 
-# 🌟 show that what you do will be the best for others and yourself.
+# 🌟 
+<li>show that what you do will be the best for others and yourself.</li>
