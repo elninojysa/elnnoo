@@ -21,4 +21,5 @@ yang tertarik dengan dunia pemograman dan teknologi.
 <li>Website pribadi untuk menampilkan informasi dan project yang pernah dibuat</li>
 
 # 🌟 
+
 <li>show that what you do will be the best for others and yourself.</li>
