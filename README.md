@@ -4,7 +4,7 @@ yang tertarik dengan dunia pemograman dan teknologi.
 # 👤 Tentang Saya
 <li>Nama:Elnino Jeysa Putra Erwinsyah</li>
 <li>Jurusan: Rekayasa Perangkat Lunak</li>
-<li>Keahlian:tidak memeiliki banyak keahlian hanya melakukan yang dapat saya lakukan</li>
+<li>Keahlian:tidak memiliki banyak keahlian hanya melakukan yang dapat saya lakukan</li>
 <li>Hobi:berkelana dan berolahraga</li>
 
 # ⚔️ Skills
@@ -19,3 +19,5 @@ yang tertarik dengan dunia pemograman dan teknologi.
 
 2.Website Portofolio
 <li>Website pribadi untuk menampilkan informasi dan project yang pernah dibuat</li>
+
+🌟 show that what you do will be the best for others and yourself.
